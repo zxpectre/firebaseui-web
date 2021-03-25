@@ -1,7 +1,7 @@
 {
-  "name": "firebaseui-es-419",
+  "name": "firebaseui",
   "version": "4.8.0",
-  "description": "Javascript library for customizable UI on top of Firebase SDK",
+  "description": "Javascript library for customizable UI on top of Firebase SDK. Localized to es-419",
   "files": [
     "dist/firebaseui__es_419.js",
     "dist/firebaseui.css",
