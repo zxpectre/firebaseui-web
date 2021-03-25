@@ -4,7 +4,7 @@ node_modules/
 # Generated directories.
 generated/
 out/
-dist/
+#dist/ commented as we need to push built dist/ directory
 .firebase
 
 # Generated files.

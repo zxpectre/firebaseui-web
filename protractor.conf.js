@@ -107,7 +107,7 @@ if (options.saucelabs) {
     browserName: 'chrome',
     chromeOptions: {
       args: [ "--headless", "--disable-gpu", "--window-size=800,600",
-              "--no-sandbox", "--disable-dev-shm-usage" ]
+              "--no-sandbox", "--disable-dev-shm-usage", "--remote-debugging-port=9222" ]
     }
   }];
 }
